@@ -118,4 +118,4 @@ github: [metadata]
 url: galanh.github.io
 baseurl: /Learning_curve
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
