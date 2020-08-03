@@ -11,7 +11,7 @@ permalink: /linux/
 5. Linux es el motor del Software Libre
     
 
-Puedes encontrar nuestros tweets en[@Python_cursos](https://twitter.com/Python_cursos)
+Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_cursos)
     
     
 <a href="/pdfs/Curso de comandos del terminal-Linux.pdf"
