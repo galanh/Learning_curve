@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Experimento por pensamiento !"
+title:  "Experimento por pensamiento!"
 date:   2020-08-02 18:28:33 -0600
-categories: fisica
+categories: jekyll update
 ---
 
 Como lo hizo Galileo, debemos entender la importancia del pensamiento abstracto.
