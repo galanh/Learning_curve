@@ -10,8 +10,8 @@ permalink: /linux/
 4. Unix está hecho de pequeñas piezas.
 5. Linux es el motor del Software Libre
     
-Puede encontrar nuestros tweets en [@Python_cursos]
-(https://twitter.com/Python_cursos)
+Puede encontrar nuestros tweets en [@Python_cursos][python_cursos]
+[python_cursos]: https://twitter.com/Python_cursos
     
     
 <a href="/pdfs/Curso de comandos del terminal-Linux.pdf"
