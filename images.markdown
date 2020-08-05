@@ -13,5 +13,10 @@ permalink: /images/
 Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_cursos)
 
 
-<a href="/pdfs/Curso_de_imagenes_colores.pdf" class="image fit"  type="application/pdf" ><img src="/img/bandera.png" alt=""></a>
+<a href="/assets/pdfs/Curso_de_imagenes_colores.pdf"
+class="image fit"  type="application/pdf" >
+<img src="/assets/img/bandera.png" alt=""></a>
+
+
+
 

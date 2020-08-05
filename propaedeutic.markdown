@@ -21,5 +21,7 @@ permalink: /propaedeutic/
 Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_cursos)
 
 
-<a href="/pdfs/Curso propedeutico.pdf" class="image fit"  type="application/pdf" ><img src="/img/bandera.png" alt=""></a>
+<a href="/assets/pdfs/Curso propedeutico.pdf"
+class="image fit"  type="application/pdf" >
+<img src="/assets/img/bandera.png" alt=""></a>
 
