@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Niños, jóvenes, adultos
     Costa Rica +506 71983403
 baseurl: /Learning_curve # the subpath of your site, e.g. /blog
-url: https://galanh.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: https://twitter.com/Python_cursos
 github_username:  galanh
 
