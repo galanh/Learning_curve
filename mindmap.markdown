@@ -1,4 +1,4 @@
-mages.markdown  linux.markdown  propaedeutic.markdown---
+---
 layout: page
 title: MindMap
 permalink: /mindmap/
@@ -13,8 +13,8 @@ permalink: /mindmap/
                                                                                     
 Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_cursos)
 
-
-<a href="{{site.baseurl}}/assets/pdfs/Curso_de_Mapas_mentales.pdf" 
-class="image fit"  type="application/pdf" >
-<img src="{{site.baseurl}}/assets/img/bandera.png" alt=""></a>
+{% include image.html 
+pdf="/Learning_curve/assets/pdfs/Curso_de_Mapas_mentales.pdf"
+file="/Learning_curve/assets/img/bandera.png"
+%}
 

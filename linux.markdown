@@ -14,12 +14,8 @@ permalink: /linux/
 Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_cursos)
     
 {% include image.html 
-pdf="site.baseurl/assets/pdfs/Curso de comandos del terminal-Linux.pdf"
-file="site.baseurl/assets/img/bandera.png"
+pdf="/Learning_curve/assets/pdfs/Curso de comandos del terminal-Linux.pdf"
+file="/Learning_curve/assets/img/bandera.png"
 %}
 
-    
-%%<a href="{{site.baseurl}}/assets/pdfs/Curso de comandos del terminal-Linux.pdf"
-%%class="image fit" type="application/pdf"> 
-%%<img src = "{{site.baseurl}}/assets/img/bandera.png" alt = ""> </a>
 

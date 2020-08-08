@@ -12,11 +12,8 @@ permalink: /images/
 
 Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_cursos)
 
-
-<a href="{{site.baseurl}}/assets/pdfs/Curso_de_imagenes_colores.pdf" 
-class="image fit"  type="application/pdf" >
-<img src="{{site.baseurl}}/assets/img/bandera.png" alt=""></a>
-
-
-
+{% include image.html 
+pdf="/Learning_curve/assets/pdfs/Curso_de_imagenes_colores.pdf"
+file="/Learning_curve/assets/img/bandera.png"
+%}
 
