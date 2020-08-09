@@ -18,4 +18,5 @@ pdf="/Learning_curve/assets/pdfs/Curso de comandos del terminal-Linux.pdf"
 file="/Learning_curve/assets/img/bandera.png"
 %}
 
+{% include note.html content="Curso de comandos en el terminal Linux" %}
 

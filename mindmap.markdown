@@ -18,3 +18,5 @@ pdf="/Learning_curve/assets/pdfs/Curso_de_Mapas_mentales.pdf"
 file="/Learning_curve/assets/img/bandera.png"
 %}
 
+{% include note.html content="Curso de Mapas Mentales" %}
+

@@ -25,3 +25,5 @@ pdf="/Learning_curve/assets/pdfs/Curso propedeutico.pdf"
 file="/Learning_curve/assets/img/bandera.png"
 %}
 
+{% include note.html content="Curso introductorio para carreras de Ciencia e Ingenieria" %}
+
