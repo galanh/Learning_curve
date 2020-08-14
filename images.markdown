@@ -14,6 +14,8 @@ Puedes encontrar nuestros tweets en [@Python_cursos](https://twitter.com/Python_
 
 {% include image.html 
 pdf="/Learning_curve/assets/pdfs/Curso_de_imagenes_colores.pdf"
-file="/Learning_curve/assets/img/bandera.png"
+file="/Learning_curve/assets/img/EM_perspective_scale.png"
 %}
+
+{% include note.html content="Gimp y Inkscape son grandes herramientas" %}
 
