@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+list_title: Ultimas publicaciones
+title: ''
 ---
+
+# Este sitio es para transformar texto en papel 
+# en un sitio web y comunicarlo a los estudiantes
+
+##     -----    Bienvenidos !     -----
+
+
