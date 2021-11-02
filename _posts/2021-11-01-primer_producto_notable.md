@@ -22,7 +22,7 @@ El cuadrado con un lado de (a + b) se puede considerar como cuatro áreas:
     3. ba
     4. b^2
 
-La suma de estas cuatro áreas es da el área total del cuadrado (a + b)^2
+La suma de estas cuatro áreas es el área total del cuadrado (a + b)^2
 
 En la figura se muestra un caso particular en que a = 3 y b = 8
 
